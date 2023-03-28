@@ -1,0 +1,3 @@
+C:/Users/a/Desktop/实习作业/torch_train/build/CMakeFiles/main.dir
+C:/Users/a/Desktop/实习作业/torch_train/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/a/Desktop/实习作业/torch_train/build/CMakeFiles/ZERO_CHECK.dir

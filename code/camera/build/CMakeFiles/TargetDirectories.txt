@@ -1,0 +1,3 @@
+C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main.dir
+C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/ZERO_CHECK.dir

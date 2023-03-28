@@ -1,0 +1,10 @@
+^C:\USERS\A\DESKTOP\实习作业\TORCH_TRAIN\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/a/Desktop/实习作业/torch_train -BC:/Users/a/Desktop/实习作业/torch_train/build --check-stamp-file C:/Users/a/Desktop/实习作业/torch_train/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,93 @@
+{
+	"BUILD_DIR" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera",
+	"CMAKE_EXECUTABLE" : "D:/CMake/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/a/Desktop/1907020110陈明/源程序/camera/clenet.h",
+			"MU",
+			"EWIEGA46WW/moc_clenet.cpp"
+		],
+		[
+			"C:/Users/a/Desktop/1907020110陈明/源程序/camera/cmdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_cmdialog.cpp"
+		],
+		[
+			"C:/Users/a/Desktop/1907020110陈明/源程序/camera/cmvideo.h",
+			"MU",
+			"EWIEGA46WW/moc_cmvideo.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen/include",
+	"INCLUDE_DIR_Debug" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/main_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "AT_PARALLEL_OPENMP=1", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/a/Desktop/1907020110陈明/源程序/camera/build",
+		"C:/Users/a/Desktop/1907020110陈明/源程序/camera",
+		"D:/Qt/5.13.0/msvc2017_64/include",
+		"D:/op/install/include",
+		"D:/libtorch/include",
+		"D:/libtorch/include/torch/csrc/api/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Qt/5.13.0/msvc2017_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/Qt/5.13.0/msvc2017_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/main_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/a/Desktop/1907020110陈明/源程序/camera/clenet.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/a/Desktop/1907020110陈明/源程序/camera/cmdialog.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/a/Desktop/1907020110陈明/源程序/camera/cmvideo.cpp",
+			"MU"
+		],
+		[ "C:/Users/a/Desktop/1907020110陈明/源程序/camera/main.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

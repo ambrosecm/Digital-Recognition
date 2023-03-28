@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\a\Desktop\实习作业\torch_train\build\CMakeFiles\a14b8bf2970cac0851b3a2a98c7417b8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D8AF38DB-04E4-328A-8F99-97ADC49479FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\A\DESKTOP\1907020110陈明\源程序\CAMERA\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/a/Desktop/1907020110陈明/源程序/camera -BC:/Users/a/Desktop/1907020110陈明/源程序/camera/build --check-stamp-file C:/Users/a/Desktop/1907020110陈明/源程序/camera/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
